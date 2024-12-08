@@ -19,7 +19,7 @@ public class OperatiiAritmetice {
         double impartire = nr1 / nr2;
         double IRest = nr1 % nr2;
 
-        System.out.println("\nRezultate: ");
+        System.out.println("Rezultate: ");
         System.out.println("Adunare: " + adunare);
         System.out.println("Scadere: " + scadere);
         System.out.println("Inmultire: " + inmultire);
