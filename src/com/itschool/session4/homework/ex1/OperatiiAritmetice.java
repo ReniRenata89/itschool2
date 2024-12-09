@@ -17,14 +17,14 @@ public class OperatiiAritmetice {
         double scadere = nr1 - nr2;
         double inmultire = nr1 * nr2;
         double impartire = nr1 / nr2;
-        double IRest = nr1 % nr2;
+        double irest = nr1 % nr2;
 
         System.out.println("Rezultate: ");
         System.out.println("Adunare: " + adunare);
         System.out.println("Scadere: " + scadere);
         System.out.println("Inmultire: " + inmultire);
         System.out.println("Impartire: " + impartire);
-        System.out.println("Irest: " + IRest);
+        System.out.println("Irest: " + irest);
 
         scanner.close();
 
