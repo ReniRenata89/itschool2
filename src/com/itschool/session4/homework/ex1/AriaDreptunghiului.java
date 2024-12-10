@@ -18,6 +18,6 @@ public class AriaDreptunghiului {
 
         System.out.println("Aria este: " + aria);
 
-        scanner.close();
+
     }
 }
