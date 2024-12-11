@@ -19,10 +19,5 @@ public class IsPositiveOrNegative {
         x = !x;
         System.out.println("Numar este pozitiv: " + x);
 
-
-
-
-
-
     }
 }
