@@ -12,12 +12,11 @@ public class IsPositiveOrNegative {
 
         int numar = scanner.nextInt();
 
-        boolean x;
-        x = false;
+        boolean x = numar <= 0;
 
-        System.out.println("Numar este negatic: " + x);
-        x = !x;
-        System.out.println("Numar este pozitiv: " + x);
+        System.out.println("Numarul este negatic: " + x);
+
+        System.out.println("Numarul este pozitiv: " + !x);
 
     }
 }
